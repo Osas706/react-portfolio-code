@@ -16,11 +16,11 @@
     "source": "https://github.com/Osas706/Weather-App"
   },
   {
-    "title": "Invoice Page",
-    "imageSrc": "projects/billing.png",
-    "description": "An invoice page",
+    "title": "Dashboard",
+    "imageSrc": "projects/dash.png",
+    "description": "Dashboard page using apexgraph",
     "skills": ["React", "Javascript", "HTML", "CSS"],
-    "demo": "https://react-billing-page.vercel.app/",
-    "source": "https://github.com/Osas706/react-billing-page"
+    "demo": "https://dashboard-pink-cyan.vercel.app/",
+    "source": "https://github.com/Osas706/Dashboard-starter"
   }
 ]
